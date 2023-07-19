@@ -1,4 +1,5 @@
 # Throttle Decorators
+函数节流
 ## How to use？
 
 ```typescript
