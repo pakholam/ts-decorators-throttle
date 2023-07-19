@@ -7,6 +7,7 @@ import { throttle } from "./Throttle.ts";
 function clickMe(){
   ...
 }
+```
 
 ## Code
 ```typescript
